@@ -11,7 +11,7 @@
 First Name : ${reservation.firstName} <br>  
 Last Name : ${reservation.lastName}  <br>
 Gender: ${reservation.gender} <br>
-Meals:
+Three course-meal:
 <ul>
 	<c:forEach var="meal" items="${reservation.food}">
 	<li>${meal}</li>
