@@ -28,7 +28,7 @@ public class ReservationTest {
 @Test
 public void testAdd()
 {
- Assert.assertEquals(1,1);	
+ Assert.assertEquals(1,0);	
 }
   
  
