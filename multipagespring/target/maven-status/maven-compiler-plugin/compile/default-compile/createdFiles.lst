@@ -1,3 +1,4 @@
-multipagespring\Model\Reservation.class
-multipagespring\Controller\TestController.class
 multipagespring\Controller\ReservationController.class
+multipagespring\Model\Reservation.class
+multipagespring\Util\MainTest.class
+multipagespring\Controller\TestController.class
