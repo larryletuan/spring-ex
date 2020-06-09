@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 design by longlt
-=======
 demo
->>>>>>> 54244b5... add myfile.txt
+
+:w
