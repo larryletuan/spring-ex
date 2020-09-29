@@ -9,7 +9,7 @@ import multipagespring.Model.Reservation;
 
 @RequestMapping("/reservation")
 @Controller
-public class ReservationController {
+ublic class ReservationController {
 	@RequestMapping("/bookingForm")
 	public String processBookingForm(Model model)
 	{
